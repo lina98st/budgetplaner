@@ -1,0 +1,105 @@
+@import './base.css';
+
+
+/* 
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+}
+
+*/
+
+
+.betrag {
+  margin: 0.2rem;
+  }
+  
+  .deleteButton {
+    border-radius: 0.1rem;
+    color: #3368af;
+    margin: 0.3rem;
+  }
+
+  .text-field {
+    margin: 0.3rem;
+  }
+  
+  #categories {
+  margin: 0.3rem;
+  }
+  
+  #summen {
+    margin: 0.3rem;
+  }
+
+  .hinzu {
+    background: #007BFF;
+    color: white;
+    padding: 0.3rem;
+    margin: 0.2rem;
+    border-radius: 0.3rem;
+    display: inline-block;
+    cursor: pointer;
+    }
+    
+    .hinzu:hover {
+        background-color: #45a049; 
+    }
+
+    #budget-app {
+      margin: 3rem;
+      background-color: #black;
+      border-radius: 0.3rem;
+      padding: 0.4rem;
+    }
+
+    /* Color for accountBalance */
+
+    .positive {
+      color: green;
+    }
+
+    .negative {
+      color: red;
+    }
+
+    /*Color for positive or negative numbers in table */
+
+    .positiveValue {
+      color: green; 
+    }
+    
+    .negativeValue {
+      color: red; 
+    }
+    
