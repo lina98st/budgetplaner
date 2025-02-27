@@ -1,29 +1,31 @@
-# budgetplaner
+# 💰 Budget Planer – Finanzmanagement mit Vue.js 3  
 
-This template should help get you started developing with Vue 3 in Vite.
+Ein einfacher und effizienter **Budget Planer**, um Einnahmen und Ausgaben im Blick zu behalten.  
+Erstellt mit **Vue.js 3 (Composition API & Single File Components)**, **HTML**, **CSS** und **Vite**.  
 
-## Recommended IDE Setup
+## 🚀 Live-Demo  
+👉 **[Budget Planer Website ansehen](https://lina98st.github.io/budgetplaner/)**  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📸 Screenshots  
 
-## Customize configuration
+<img width="1400" alt="Bildschirmfoto 2025-02-27 um 12 24 59" src="https://github.com/user-attachments/assets/b6433e0c-de5c-4e1d-aa6d-a0c5f6d8f362" />
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## 🛠 Technologien  
+- **Vue.js 3 (Composition API & Single File Components)**  
+- **Vite** für schnelle Entwicklung & Build  
+- **CSS3** für das Styling  
+- **LocalStorage** zur Datenspeicherung  
 
-```sh
+## ✅ Voraussetzungen  
+Bevor du startest, stelle sicher, dass du Folgendes installiert hast:  
+- **Node.js** (empfohlen: v16+)  
+- **npm** oder **yarn**  
+
+## 🔧 Installation & Nutzung  
+Falls du das Projekt lokal nutzen möchtest, führe folgende Schritte aus:  
+```bash
+git clone https://github.com/lina98st/budgetplaner.git
+cd budgetplaner
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+npm run dev  # Startet den Entwicklungsserver
