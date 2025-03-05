@@ -11,7 +11,7 @@ Erstellt mit **Vue.js 3 (Composition API & Single File Components)**, **HTML**, 
 <img width="1400" alt="Bildschirmfoto 2025-02-27 um 12 24 59" src="https://github.com/user-attachments/assets/b6433e0c-de5c-4e1d-aa6d-a0c5f6d8f362" />
 
 
-## 🛠 Technologien  
+## 🛠 Technologien
 - **Vue.js 3 (Composition API & Single File Components)**  
 - **Vite** für schnelle Entwicklung & Build  
 - **CSS3** für das Styling  
