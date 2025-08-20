@@ -17,7 +17,7 @@ Erstellt mit **Vue.js 3 (Composition API & Single File Components)**, **HTML**, 
 - **CSS3** für das Styling  
 - **LocalStorage** zur Datenspeicherung  
 
-## ✅ Voraussetzungen  
+## Voraussetzungen  
 Bevor du startest, stelle sicher, dass du Folgendes installiert hast:  
 - **Node.js** (empfohlen: v16+)  
 - **npm** oder **yarn**  
