@@ -4,7 +4,7 @@ Ein einfacher und effizienter **Budget Planer**, um Einnahmen und Ausgaben im Bl
 Erstellt mit **Vue.js 3 (Composition API & Single File Components)**, **HTML**, **CSS** und **Vite**.  
 
 ## Live-Demo  
-👉 **[Budget Planer Website ansehen](https://lina98st.github.io/budgetplaner/)**  
+**[Budget Planer Website ansehen](https://lina98st.github.io/budgetplaner/)**  
 
 ## 📸 Screenshots  
 
