@@ -1,31 +1,39 @@
-# Budget Planer – Finanzmanagement mit Vue.js 3  
+# Budget Planner
 
-Ein einfacher und effizienter **Budget Planer**, um Einnahmen und Ausgaben im Blick zu behalten.  
-Erstellt mit **Vue.js 3 (Composition API & Single File Components)**, **HTML**, **CSS** und **Vite**.  
+A simple budget planner web application built with Vue 3.
 
-## Live-Demo  
-**[Budget Planer Website ansehen](https://lina98st.github.io/budgetplaner/)**  
+The app allows users to track income and expenses, calculate totals, and see their current balance. All data is stored locally in the browser using localStorage.
 
-## Screenshots  
+This project was originally created as one of my first Vue applications.  
+At the time, the entire app logic lived in a single file.
 
-<img width="1400" alt="Bildschirmfoto 2025-02-27 um 12 24 59" src="https://github.com/user-attachments/assets/b6433e0c-de5c-4e1d-aa6d-a0c5f6d8f362" />
+As part of a later refactoring, the codebase was cleaned up and restructured:
+- the app was split into reusable Vue components
+- responsibilities were separated for better readability and maintainability
+- naming and structure were improved without changing core functionality
 
+## Features
 
-## Technologien
-- **Vue.js 3 (Composition API & Single File Components)**  
-- **Vite** für schnelle Entwicklung & Build  
-- **CSS3** für das Styling  
-- **LocalStorage** zur Datenspeicherung  
+- Add income and expense entries
+- Categorize transactions
+- Automatic calculation of total income, total expenses, and balance
+- Persistent data storage via localStorage
+- Component-based architecture (refactored)
 
-## Voraussetzungen  
-Bevor du startest, stelle sicher, dass du Folgendes installiert hast:  
-- **Node.js** (empfohlen: v16+)  
-- **npm** oder **yarn**  
+## Tech Stack
 
-## 🔧 Installation & Nutzung  
-Falls du das Projekt lokal nutzen möchtest, führe folgende Schritte aus:  
+- Vue 3
+- Vite
+- JavaScript
+- HTML & CSS
+
+## Project Status
+
+The project is functional and intentionally kept simple.  
+Its main purpose is to demonstrate learning progress, refactoring, and clean component structure in Vue.
+
+## Getting Started
+
 ```bash
-git clone https://github.com/lina98st/budgetplaner.git
-cd budgetplaner
 npm install
-npm run dev  # Startet den Entwicklungsserver
+npm run dev
