@@ -1,5 +1,9 @@
 # Budget Planner
 
+
+🔗 Live Demo: https://lina98st.github.io/budgetplaner/
+
+
 A simple budget planner web application built with Vue 3.
 
 The app allows users to track income and expenses, calculate totals, and see their current balance. All data is stored locally in the browser using localStorage.
@@ -11,6 +15,7 @@ As part of a later refactoring, the codebase was cleaned up and restructured:
 - the app was split into reusable Vue components
 - responsibilities were separated for better readability and maintainability
 - naming and structure were improved without changing core functionality
+
 
 ## Features
 
